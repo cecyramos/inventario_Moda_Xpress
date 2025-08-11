@@ -17,4 +17,4 @@ def producto_especifico(ruta_archivo,producto):
     except IOError:
         print("Hubo un error al intentar leer el archivo.")
 
-producto_especifico("inventario_Moda_Xpress/inventario.txt","Camiseta Azul")
+producto_especifico("inventario.txt","Camiseta Azul")
