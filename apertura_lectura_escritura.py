@@ -28,4 +28,4 @@ def lectura_escritura(ruta_archivo):
         print("Hubo un error al intentar leer el archivo.")
 
 
-lectura_escritura("inventario_Moda_Xpress/inventario.txt")
+lectura_escritura("inventario.txt")

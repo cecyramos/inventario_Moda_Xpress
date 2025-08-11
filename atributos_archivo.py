@@ -21,4 +21,4 @@ def obtener_atributos_archivo(archivo):
         print("Hubo un error al intentar leer el archivo.")
     
     
-obtener_atributos_archivo("inventario_Moda_Xpress/inventario.txt")
+obtener_atributos_archivo("inventario.txt")
