@@ -14,8 +14,8 @@
 * Aprendizaje: Apliqué lo aprendido de la tarea 4 y como me retorna una lista, la pude recorrer y comparar si traía el producto buscado.  
 # HANS:
 7. Modificar el nombre de un producto: Cambiar el nombre de un artículo en el inventario.
-* Aprendizaje:  
+* Aprendizaje:  Aprendí a trabajar con archivos en Python utilizando el modo de lectura y escritura, a procesar cada línea separando sus columnas con `split()`, a modificar solo la parte necesaria sin alterar otros datos y a dar retroalimentación al usuario mostrando el inventario antes y después del cambio.
 8. Eliminar un producto: Eliminar un producto del inventario.
-* Aprendizaje:  
+* Aprendizaje:  Aprendí a filtrar información en archivos de texto, a recorrer línea por línea para tomar decisiones de escritura, a manejar comparaciones insensibles a mayúsculas y a actualizar el archivo sin afectar los registros restantes.
 9. Cerrar archivos: Asegurarse de cerrar correctamente el archivo después de cada operación.
-* Aprendizaje: 
+* Aprendizaje: Aprendí la importancia de liberar los recursos del sistema tras manipular archivos, la forma de cerrar archivos manualmente con `close()` y cómo combinarlo con manejo de errores para evitar fugas de recursos o pérdida de datos.
